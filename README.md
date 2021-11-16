@@ -34,7 +34,10 @@ oscillator simulator in XY mode
 
 
 
-DEMO
+#DEMO
 
 1.
 ![](demo2.gif)
+
+2.
+![](demo3.gif)
