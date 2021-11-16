@@ -37,4 +37,4 @@ oscillator simulator in XY mode
 DEMO
 
 1.
-![](sample1.gif)
+![](demo2.gif)
